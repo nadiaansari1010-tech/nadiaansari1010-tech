@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Nadia Ansari 👋
 
-<!--
-**nadiaansari1010-tech/nadiaansari1010-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Assistant Manager at K-Electric with 10+ years of professional experience in Customer Experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently transitioning into Data Analytics and AI by building practical projects and continuously learning modern data tools.
+
+## Skills
+
+- Python
+- Power BI
+- Microsoft Excel
+- Data Analytics
+- Artificial Intelligence
+- Customer Experience
+- Problem Solving
+
+## Currently Learning
+
+- Python for Data Analytics
+- Machine Learning
+- Data Visualization
+- Git & GitHub
+
+## Projects
+
+Projects will be uploaded here soon.
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/nadia-ansari-aa881020b/
+
+---
+⭐ Thanks for visiting my profile.
